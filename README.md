@@ -61,6 +61,6 @@ showing challenge video, it seems ok.
 
 
 ### Discussion
-#### 1.Seting different situation Model maybe having better Result.
+#### 1.Setting different situation Model maybe having better Result.
 #### 2.Different  situation having different color situation
 #### 3.Avoiding change too much, follow the last data to edit.
